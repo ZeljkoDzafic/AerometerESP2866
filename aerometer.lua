@@ -49,6 +49,3 @@ function sendDataAerometer(data)
                   print("Got disconnection...")
     end)
 end
-testJson(data)
-sendDataThingSpeak(data)
-sendDataAerometer(data)
